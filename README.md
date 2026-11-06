@@ -1,1 +1,1 @@
-# slo
+# wget github.com
